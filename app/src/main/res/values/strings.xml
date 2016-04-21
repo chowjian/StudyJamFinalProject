@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">5 ways to make eggs</string>
+    <string name="app_name">5 Ways To Cook Eggs</string>
     <string name="hardBoiled">1) Hard boiled eggs</string>
     <string name="hardBoiled_steps">Place your <b>eggs</b> in a pot and cover with cold water by 1 inch. Bring to a <b>boil</b> over medium-high heat, then cover, remove from the heat and set aside 8 to 10 minutes. Drain, cool in ice water and peel.</string>
     <string name="fried">2) Fried eggs</string>
     <string name="fried_steps"><b>1</b>. For Over-Easy or Over-Hard Eggs: HEAT 2 tsp. butter in nonstick skillet over medium-high heat until hot.\n\n<b>2</b>. BREAK eggs and SLIP into pan, 1 at a time. IMMEDIATELY reduce heat to low.\n\n<b>3</b>. COOK SLOWLY until whites are completely set and yolks begin to thicken but are not hard.</string>
     <string name="poached">3) Poached eggs</string>
-    <string name="poached_steps"><b>1</b>. Pour cold water into a large saucepan until 8cm deep. Add vinegar. Bring to the boil over medium heat. Reduce heat to low (water should still be simmering around the edge).\n\n<b>2</b>. Crack 1 egg into a shallow bowl. Using a wooden spoon, stir water to create a whirlpool. Tip egg into water. Cook for 2 to 3 minutes for a soft yolk or 3 to 4 minutes for firm. Using a slotted spoon, remove egg from water. \n\n<b>3</b>. Skim foam from water. Poach remaining eggs. Serve eggs on toast.</string>
+    <string name="poached_steps"><b>1</b>. Pour cold water into a large saucepan until 8cm deep. Add vinegar. Bring to the boil over medium heat. Reduce heat to low (water should still be simmering around the edge).\n\n<b>2</b>. Crack 1 egg into a shallow bowl. Using a wooden spoon, stir water to create a whirlpool. Tip egg into water. Cook for 2 to 3 minutes for a soft yolk or 3 to 4 minutes for firm. Using a slotted spoon, remove egg from water.\n\n<b>3</b>. Skim foam from water. Poach remaining eggs. Serve eggs on toast.</string>
     <string name="scrambled">4) Scrambled eggs</string>
     <string name="scrambled_steps"><b>1</b>. BEAT eggs, milk, salt and pepper in bowl until blended.\n\n<b>2</b>. HEAT butter in large nonstick skillet over medium heat until hot. POUR IN egg mixture. \n\n<b>3</b>. As eggs begin to set, GENTLY PULL the eggs across the pan with an inverted turner, forming large soft curds. CONTINUE cooking – pulling, lifting and folding eggs – until thickened and no visible liquid egg remains. Do not stir constantly. REMOVE from heat. SERVE immediately.</string>
     <string name="omelet">5) Omelet</string>
